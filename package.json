@@ -1,0 +1,21 @@
+{
+  "name": "is-integer",
+  "version": "1.0.0",
+  "description": "Checking if a number is an integer",
+  "main": "src/index.js",
+  "keywords": ["is-integer"],
+  "author": "hoofrif3h",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoofrif3h/is-integer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoofrif3h/is-integer/issues"
+  },
+  "homepage": "https://github.com/hoofrif3h/is-integer#readme",
+  "dependencies": {
+    "round-date": "1.1.2",
+    "dotenv": "^16.4.5"
+  }
+}
